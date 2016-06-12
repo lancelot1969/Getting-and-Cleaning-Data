@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning Data"
-output: html_document
----
+# Getting and Cleaning Data  
 
 To create tidy data set for wearable data computing by getting and cleaning data. Original source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Source to download relevant data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
