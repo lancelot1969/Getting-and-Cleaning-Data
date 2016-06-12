@@ -1,9 +1,3 @@
----
-title: "**CodeBook.md**"
-author: "**Arman Kirakosyan**"
-date: "June 6, 2016"
-output: html_document
----
 
 ## **Codebook for Getting and Cleaning Data Course Project**
 
